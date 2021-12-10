@@ -78,7 +78,7 @@ body{margin-top: -5px;}
 
 @media screen and (max-width: 768px) {
     .t_on_carousel{
-        top: 40%;
+        top: 30%;
     }
     .t_navbar{
         display: none;
