@@ -43,7 +43,7 @@ body{margin-top: -5px;}
     z-index: 200;
     width: 400px;
     color: #fff;
-    top: 20%;
+    top: 150px;
     left: 10%;
 }
 
@@ -78,7 +78,7 @@ body{margin-top: -5px;}
 
 @media screen and (max-width: 768px) {
     .t_on_carousel{
-        top: 30%;
+        top: 250px;
     }
     .t_navbar{
         display: none;
